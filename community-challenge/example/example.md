@@ -42,8 +42,8 @@ You may work individually or as part of a small team. Your project should demons
 
 ## Prizes
 
-- **First place:** USD 1,000
-- **Second place:** USD 750
+- **First place:** USD 1,500
+- **Second place:** USD 1000
 - **Third place:** USD 500
 - **Best Community Voice:** USD 250
 

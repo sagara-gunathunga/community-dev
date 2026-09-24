@@ -86,8 +86,8 @@ Community contribution is judged by the quality, effort, and usefulness of what 
 
 The prize package is agreed among the host community, sponsor, and programme team for each challenge. A typical package is:
 
-- **First place:** Around USD 1,000
-- **Second place:** Around USD 750
+- **First place:** Around USD 1,500
+- **Second place:** Around USD 1000
 - **Third place:** Around USD 500
 - **Best Community Voice:** Around USD 250
 

@@ -13,8 +13,8 @@ Each challenge publishes its specific topic, learning outcomes, technical resour
 
 ## Typical prizes
 
-- **First place:** Around USD 1,000
-- **Second place:** Around USD 750
+- **First place:** Around USD 1,500
+- **Second place:** Around USD 1000
 - **Third place:** Around USD 500
 - **Best Community Voice:** Around USD 250
 

@@ -12,8 +12,8 @@ Each challenge focuses on a specific technical area, such as securing agentic ap
 
 The prize package is agreed for each challenge. A typical package is:
 
-- **First place:** Around USD 1,000
-- **Second place:** Around USD 750
+- **First place:** Around USD 1,500
+- **Second place:** Around USD 1000
 - **Third place:** Around USD 500
 - **Best Community Voice:** Around USD 250
 

@@ -83,7 +83,7 @@ Community contribution is evaluated by quality, effort, usefulness, and construc
 
 ## What prizes are available?
 
-A typical prize package is around USD 1,000 for first place, USD 750 for second place, USD 500 for third place, and USD 250 for Best Community Voice. Exact amounts and conditions are published for each challenge.
+A typical prize package is around USD 1,500 for first place, USD 1000 for second place, USD 500 for third place, and USD 250 for Best Community Voice. Exact amounts and conditions are published for each challenge.
 
 ## Who provides technical support?
 
