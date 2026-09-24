@@ -2,7 +2,7 @@
 
 ## What is the ThunderID Community Challenge?
 
-It is a community-led programme where developers learn about a modern identity topic, build a working solution with [ThunderID](https://thunderid.com), and share what they learned with the wider open-source community.
+It is a community-led programme where developers learn about a modern identity topic, build a working solution with [ThunderID](https://thunderid.dev), and share what they learned with the wider open-source community.
 
 ## Who can participate?
 

@@ -1,6 +1,6 @@
 # Participate in a ThunderID Community Challenge
 
-ThunderID Community Challenges give developers an opportunity to learn about an emerging identity topic, build a working project with [ThunderID](https://thunderid.com), share their knowledge, and compete for prizes through an open-source community.
+ThunderID Community Challenges give developers an opportunity to learn about an emerging identity topic, build a working project with [ThunderID](https://thunderid.dev), share their knowledge, and compete for prizes through an open-source community.
 
 ## What you can gain
 

@@ -2,7 +2,7 @@
 
 **Learn. Build. Share.**
 
-The ThunderID Community Challenge is a community-led programme where developers explore modern identity topics, build working solutions with [ThunderID](https://thunderid.com), and share their knowledge with the wider open-source community.
+The ThunderID Community Challenge is a community-led programme where developers explore modern identity topics, build working solutions with [ThunderID](https://thunderid.dev), and share their knowledge with the wider open-source community.
 
 Each challenge focuses on a specific technical area, such as securing agentic applications, integrating with digital wallets, decentralized identity, cloud-native deployment, or securing modern applications and workloads.
 
@@ -55,7 +55,7 @@ Find answers about eligibility, individual and team participation, challenge for
 
 ThunderID is an open-source identity stack designed for humans, AI agents, and machines. It provides a foundation for building and securing modern identity experiences across traditional, agentic, and decentralized environments.
 
-[ThunderID website](https://thunderid.com) · [GitHub repository](https://github.com/thunder-id/thunderid)
+[ThunderID website](https://thunderid.dev) · [GitHub repository](https://github.com/thunder-id/thunderid)
 
 ### Sponsors
 

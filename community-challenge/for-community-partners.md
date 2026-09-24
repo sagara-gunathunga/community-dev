@@ -1,6 +1,6 @@
 # Host a ThunderID Community Challenge
 
-ThunderID Community Challenges help developers learn about a modern identity topic, build working solutions with [ThunderID](https://thunderid.com), and share useful knowledge with the wider open-source community.
+ThunderID Community Challenges help developers learn about a modern identity topic, build working solutions with [ThunderID](https://thunderid.dev), and share useful knowledge with the wider open-source community.
 
 A challenge may be physical, virtual, or hybrid. The usual format combines a community-hosted kickoff, a two-week build period, technical support, public project submissions, and joint evaluation.
 

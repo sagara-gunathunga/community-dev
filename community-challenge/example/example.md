@@ -1,6 +1,6 @@
 # ThunderID Community Challenge: Build Secure Agentic Applications
 
-The ThunderID community and **[Host Community]** invite developers to build and publicly demonstrate secure agentic applications using [ThunderID](https://thunderid.com).
+The ThunderID community and **[Host Community]** invite developers to build and publicly demonstrate secure agentic applications using [ThunderID](https://thunderid.dev).
 
 **Hosted by:** [Host Community]  
 **Sponsor:** [Sponsor Name]  
